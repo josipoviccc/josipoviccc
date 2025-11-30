@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Katarina👋
 
-<!--
-**josipoviccc/josipoviccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me 
+- 🎓 I'm a computer science student  
+- 🌐 I love **web development**, especially building interactive apps  
+- 🕵️ I'm also diving deep into **cybersecurity** and **digital forensics**  
+- 💻 Currently developing **GameLog** — a web app for tracking game achievements  
+- 🌱 I'm learning **German (A2/B1 level)**  
+- ⚡ Fun fact: I'm a big Formula 1 fan (Red Bull & Max Verstappen 🏎️)
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+- JavaScript best practices  
+- Cybersecurity fundamentals  
+- Digital forensics basics 
+- Object-oriented programming in **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript  
+- **Other:** C++, Git, VS Code  
+- **Interests:** cybersecurity, digital forensics, UI/UX  
+- **Experimenting with:** chart libraries, data visualization
+
+## 📊 Projects
+### 🎮 GameLog
+A personal project inspired by Backloggery — track games, achievements, wishlists and completion progress
+Features planned:
+- Game library  
+- Achievement tracking  
+- Wishlist with price tracking  
+- Admin tools for adding/editing game data  
+- Graphs & analytics
