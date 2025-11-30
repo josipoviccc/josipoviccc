@@ -9,9 +9,8 @@
 - ⚡ Fun fact: I'm a big Formula 1 fan (Red Bull & Max Verstappen 🏎️)
 
 ## 🧠 What I'm Learning
-- JavaScript best practices  
-- Cybersecurity fundamentals  
-- Digital forensics basics 
+- Frontend development and UI/UX concepts
+- Cybersecurity & digital forensics
 - Object-oriented programming in **C++**
 
 ## 🛠️ Technologies & Tools
